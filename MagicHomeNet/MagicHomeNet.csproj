@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Common\AudioCaptureDevice.cs" />
+    <Compile Remove="Common\CursorColorEffectMetadata.cs" />
+    <Compile Remove="Common\CursorColorEffectMetadataProperties.cs" />
+    <Compile Remove="Common\DominantDisplayColorEffectMetadata.cs" />
+    <Compile Remove="Common\DominantDisplayColorEffectMetadataProperties.cs" />
+    <Compile Remove="Common\EffectMetadata.cs" />
+    <Compile Remove="Common\EffectType.cs" />
+    <Compile Remove="Common\GradientEffectMetadata.cs" />
+    <Compile Remove="Common\GradientEffectMetadataProperties.cs" />
+    <Compile Remove="Common\GradientPoint.cs" />
+    <Compile Remove="Common\MusicEffectAudioPoint.cs" />
+    <Compile Remove="Common\MusicEffectBrightnessMode.cs" />
+    <Compile Remove="Common\MusicEffectMetadata.cs" />
+    <Compile Remove="Common\MusicEffectMetadataProperties.cs" />
+    <Compile Remove="Common\StaticColorEffectMetadata.cs" />
+  </ItemGroup>
+
+</Project>

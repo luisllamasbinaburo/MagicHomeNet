@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicHomeNet", "MagicHomeNet\MagicHomeNet.csproj", "{D19A7707-C35D-41DC-A853-86E50B54112F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicHomeNet_Tests", "MagicHomeNet_Tests\MagicHomeNet_Tests.csproj", "{4F99FB02-87B5-42C8-8986-8C899CF7A857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D19A7707-C35D-41DC-A853-86E50B54112F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19A7707-C35D-41DC-A853-86E50B54112F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19A7707-C35D-41DC-A853-86E50B54112F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19A7707-C35D-41DC-A853-86E50B54112F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F99FB02-87B5-42C8-8986-8C899CF7A857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F99FB02-87B5-42C8-8986-8C899CF7A857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F99FB02-87B5-42C8-8986-8C899CF7A857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F99FB02-87B5-42C8-8986-8C899CF7A857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1157B4C-989E-4818-B2EA-DDE5D582C4D9}
+	EndGlobalSection
+EndGlobal
